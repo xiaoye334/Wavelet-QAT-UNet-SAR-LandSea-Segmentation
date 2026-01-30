@@ -1,1 +1,18 @@
-# Wavelet-QAT-UNet-SAR-LandSea-Segmentation
+# 基于 U-Net 的 SAR 海陆分割方法
+
+本仓库为论文相关代码的占位仓库。
+
+## 说明
+
+本文提出了一种基于 U-Net 的 SAR 海陆分割方法，在数据处理流程中引入小波纹理增强，
+并采用量化感知训练（Quantization-Aware Training, QAT），以获得可在 CPU 上部署的
+INT8 量化模型。
+
+## 代码可获取性
+
+本文相关代码将在论文录用后通过本仓库进行公开，以支持研究工作的复现与对比分析。
+
+## 状态
+
+- 当前状态：占位仓库（Under Review）
+- 代码发布时间：论文录用后
